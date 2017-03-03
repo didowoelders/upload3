@@ -1262,10 +1262,11 @@
           "_name": "features3",
           "_styles": {
             "H5": {
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
               "font-size": "19px",
-              "color": "#2b0680"
+              "color": "#000000",
+              "text-align": "center"
             }
           },
           "_anchor": "features3-1g",
@@ -1385,7 +1386,7 @@
             "H5": {
               "font-family": "'Lato', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "color": "#2b0680",
+              "color": "#000000",
               "font-size": "19px",
               "text-align": "center"
             }
@@ -1505,9 +1506,9 @@
           "_name": "features3",
           "_styles": {
             "H5": {
-              "color": "#2b0680",
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "color": "#000000",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
               "font-size": "19px",
               "text-align": "center"
             }
@@ -1515,7 +1516,7 @@
           "_anchor": "features3-1j",
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1726,7 +1727,7 @@
           "_name": "header1",
           "_anchor": "header1-1s",
           "_params": {
-            "parallax": true,
+            "parallax": false,
             "bgImageRadio": true,
             "showArrow": false,
             "bgImage": "@PROJECT_PATH@/assets/images/probeersel-1-2000x1134.jpg",
@@ -2097,7 +2098,7 @@
           "_name": "header1",
           "_anchor": "header1-1w",
           "_params": {
-            "parallax": true,
+            "parallax": false,
             "bgImageRadio": true,
             "showArrow": false,
             "bgImage": "@PROJECT_PATH@/assets/images/dsc-1491-1-2000x1324.jpg",
